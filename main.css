@@ -1,0 +1,71 @@
+body
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5em;
+    box-sizing: border-box;
+    
+    height: 100%;
+}
+
+header
+{
+    position: absolute;
+    top: 0;
+    left: 10%;
+    background-color: rgb(255,241,241);
+    padding: 1em;
+    border-radius: 0em 0em 1em 1em;
+}
+
+h1
+{
+    font-size: 2em;
+}
+
+nav
+{
+    margin: 1em 0em;
+}
+
+li
+{
+    margin: 0.5em 0em;
+}
+
+#portfolio
+{
+    margin-left: 2em;
+    list-style: square;
+}
+
+#portfolio li
+{
+    margin: 0.25em 0em;
+}
+
+a
+{
+    display: inline-block;
+}
+
+.gg-instagram
+{
+    color: black;
+}
+
+.gg-twitter
+{
+    color: black;
+}
+
+.gg-facebook
+{
+    color: black;
+}
+
+footer
+{
+    position: absolute;
+    left: 1em;
+    bottom: 0.1em;
+}

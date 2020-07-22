@@ -1,0 +1,79 @@
+/*
+header
+{
+	background-color: #FF0000;
+}
+
+h1
+{
+	color: #FFFAFA;
+}
+li
+{
+	color: #FFFAFA;
+}
+a
+{
+	color: #FFFAFA;
+}
+
+
+.gg-instagram
+{
+    color: #FFFAFA;
+}
+
+.gg-twitter
+{
+    color: #FFFAFA;
+}
+
+.gg-facebook
+{
+    color: #FFFAFA;
+}
+*/
+
+
+#gallery
+{
+    width: 120%;
+    margin-left: 30vw;
+    margin-top: 10vh;
+}
+
+
+
+.col-1-6 
+{
+    flex-grow: 0;
+}
+
+.col-2-6 
+{
+    flex-grow: 1;
+}
+  
+.col-1-6,
+.col-2-6 
+{
+    display: inline-block;
+    height: 60vh;
+    padding: 0.5em;
+}
+
+img
+{
+    display: block;
+}
+
+.col-1-6 img
+{
+    margin-bottom: 1em;
+    height: 48%;
+}
+
+.col-2-6 img
+{
+    height: 100%;
+}

@@ -1,0 +1,10 @@
+body
+{
+    overflow: hidden;
+}
+
+#landing
+{
+    display: block;
+    width: 100%;
+}
